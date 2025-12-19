@@ -40,14 +40,14 @@ export const DATA = {
           title: "Workintech",
           desc: "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler.",
           tags: ["react", "redux", "axios"],
-          image: "/example-1.png"
+          image: "/example1.png"
         },
         {
           id: 2,
           title: "Journey",
           desc: "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler.",
           tags: ["react", "redux", "axios"],
-          image: "/example-2.png"
+          image: "/example2.png"
         }
       ]
     },
@@ -98,14 +98,14 @@ export const DATA = {
           title: "Workintech",
           desc: "Kullanıcılarınızın hangi çerezleri kabul edip etmeyeceğini seçmelerine olanak tanıyan basit, özelleştirilebilir, minimal kurulumlu bir çerez eklentisi.",
           tags: ["react", "redux", "axios"],
-          image: "/example-1.png"
+          image: "/example1.png"
         },
         {
           id: 2,
           title: "Journey",
           desc: "Kullanıcılarınızın hangi çerezleri kabul edip etmeyeceğini seçmelerine olanak tanıyan basit, özelleştirilebilir, minimal kurulumlu bir çerez eklentisi.",
           tags: ["react", "redux", "axios"],
-          image: "/example-2.png"
+          image: "/example2.png"
         }
       ]
     },
