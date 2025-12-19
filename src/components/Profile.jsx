@@ -51,7 +51,7 @@ const Profile = () => {
             <div className="h-full flex items-center justify-center">
                 <div className="w-full max-w-xs aspect-square rounded-xl overflow-hidden shadow-2xl bg-gray-800">
                     <img 
-                        src="/public/profile.png" 
+                        src="/profile.png" 
                         alt="Profile" 
                         className="w-full h-full object-cover hover:scale-105 transition-transform duration-500" 
                     />
